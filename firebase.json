@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "agri-ai-farmersolution",
+                    "appId": "1:303063197791:android:f492fda5d12122b7ab53ea",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "agri-ai-farmersolution",
+                    "configurations": {
+                        "android": "1:303063197791:android:f492fda5d12122b7ab53ea",
+                        "ios": "1:303063197791:ios:2979f0c9f8c252ebab53ea",
+                        "macos": "1:303063197791:ios:2979f0c9f8c252ebab53ea",
+                        "web": "1:303063197791:web:589fe96c87033fe5ab53ea",
+                        "windows": "1:303063197791:web:492e555a59ba7b69ab53ea"
+                    }
+                }
+            }
+        }
+    }
+}
